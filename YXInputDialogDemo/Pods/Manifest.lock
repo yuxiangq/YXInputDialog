@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (1.0.1)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - UITextView+Placeholder (1.2.0)
+
+DEPENDENCIES:
+  - Masonry
+  - ReactiveCocoa
+  - UITextView+Placeholder
+
+SPEC CHECKSUMS:
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  UITextView+Placeholder: 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+
+COCOAPODS: 0.39.0
