@@ -7,6 +7,9 @@ Masonry
 ReactiveCocoa
 UITextView+Placeholder
 ```
+## 截图
+[!image](https://github.com/yuxiangq/YXInputDialog/blob/develop/screenshots/inputdialog.png)
+
 ## 使用方法
 ```
 YXInputDialog *dialog = [YXInputDialog new];
